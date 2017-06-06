@@ -18,6 +18,7 @@ define( function( require, exports, module ) {
         require( './widgets/db-object-widget' ),
         require( './widgets/phone-widget' ),
         require( './widgets/unselectable-radios' ),
+        require( './widgets/bikram-sambat-datepicker' ),
         require( './widgets/android-datepicker' ),
         require( './widgets/z-score' ),
     ];
